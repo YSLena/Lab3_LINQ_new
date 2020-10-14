@@ -8,10 +8,10 @@
 6. В выпадающем списке выбрать Comments 8.Отсортировать задачи по полю Description (задачи надо упорядочить по номерам) 
 7. Выполнять задачи
 
-ВАЖНО:
+# ВАЖНО: 
 Перед первым запуском выполнить построение и анализ кода, чтобы подтянулись все пакеты. Меню:
 
-Project \ Manage NuGet Packages \ Restore
+Project \ Manage NuGet Packages... \ Restore
 
 Build \ Build Solution
 
